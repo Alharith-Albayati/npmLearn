@@ -11,7 +11,8 @@
   "license": "you are allowed to do whatever",
   "version": "1.4.1",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "@freecodecamp/example": "1.1.0"
   },
   "main": "server.js",
   "scripts": {
