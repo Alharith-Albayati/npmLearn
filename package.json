@@ -2,7 +2,8 @@
   "name": "fcc-learn-npm-package-json",
   "author": "foobar",
   "description": "this project does something awesome",
-  "keywords" : ["freecodecamp", "programming", "caching", "server-side rendering"]
+  "keywords" : ["freecodecamp", "programming", "caching", "server-side rendering"],
+  "license" : "you are allowed to do whatever",
   "dependencies": {
     "express": "^4.14.0"
   },
