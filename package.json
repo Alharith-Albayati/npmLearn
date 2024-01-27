@@ -1,6 +1,6 @@
 {
-  "author": "Alharith-Albayati",
   "name": "fcc-learn-npm-package-json",
+  "author": "Alharith-Albayati",
   "dependencies": {
     "express": "^4.14.0"
   },
